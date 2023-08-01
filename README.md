@@ -1,6 +1,6 @@
 task.one
 <<<<<<< HEAD
-update
+update.
 =======
 How are you friend
 >>>>>>> update_script
