@@ -1,7 +1,11 @@
 task.one
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 update
+=======
+update.
+>>>>>>> origin/main
 =======
 How are you friend
 >>>>>>> update_script
